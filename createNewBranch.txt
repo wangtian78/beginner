@@ -1,0 +1,1 @@
+"git branch name" create a branch from master or the current branch?
