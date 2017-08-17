@@ -1,0 +1,7 @@
+git status: compare specifc local branch and remote branch(local master vs master, local Hannah vs Hannah);
+
+"push origin branchname" command will push local branchname to remote branchname, regardless which local branch you are in;
+
+"pull origin branchname" command will pull remote branchname to your current local branch (even it is not "branchname");
+
+so be careful about "pull" command. 
