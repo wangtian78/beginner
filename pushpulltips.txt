@@ -4,4 +4,7 @@ git status: compare specifc local branch and remote branch(local master vs maste
 
 "pull origin branchname" command will pull remote branchname to your current local branch (even it is not "branchname");
 
-so be careful about "pull" command. 
+so be careful about "pull" command.
+
+clone branch:
+git clone -b branchName repoLink 
